@@ -1,0 +1,7 @@
+Geri yükleme işlemi sırasında bir hata oluştu: The file 'C:\Program Files\Microsoft SQL Server\MSSQL15.OKANAKIN\MSSQL\DATA\deneme1.mdf' cannot be overwritten.  It is being used by database 'deneme1'.
+File 'deneme1' cannot be restored to 'C:\Program Files\Microsoft SQL Server\MSSQL15.OKANAKIN\MSSQL\DATA\deneme1.mdf'. Use WITH MOVE to identify a valid location for the file.
+The file 'C:\Program Files\Microsoft SQL Server\MSSQL15.OKANAKIN\MSSQL\DATA\deneme1_log.ldf' cannot be overwritten.  It is being used by database 'deneme1'.
+File 'deneme1_log' cannot be restored to 'C:\Program Files\Microsoft SQL Server\MSSQL15.OKANAKIN\MSSQL\DATA\deneme1_log.ldf'. Use WITH MOVE to identify a valid location for the file.
+Problems were identified while planning for the RESTORE statement. Previous messages provide details.
+RESTORE DATABASE is terminating abnormally.
+Changed database context to 'master'.
